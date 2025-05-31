@@ -20,4 +20,21 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/gambar_dosen/
+    - assets/json_data_chat_dosen/dosen_chat.json
+    - assets/arifin.jpg
+    - assets/gambar_dosen/Azlan, S.Kom., M.Kom.jpg
+    - assets/gambar_dosen/Badrul Anwar, S.E., S.Kom., M.Kom..jpg
+    - assets/gambar_dosen/Dr. Dicky Nofriansyah, S.Kom., M.Kom..jpg
+    - assets/gambar_dosen/Dr. Rudi Gunawan, S.E., M.Si..jpg
+    - assets/gambar_dosen/Dra. Sri Kusnasari, M.Hum.jpg
+    - assets/gambar_dosen/Drs. Sobirin, S.H., M.Si..jpg
+    - assets/gambar_dosen/Hendra Jaya, S.Kom., M.Kom..jpg
+    - assets/gambar_dosen/Hendryan Winata, S.Kom., M.Kom..jpg
+    - assets/gambar_dosen/Iskandar Zulkarnain, S.T., M.Kom..jpg
+    - assets/gambar_dosen/Ismawardi Santoso, S.Pd., MS..jpg
+    - assets/gambar_dosen/Muhammad Dahria, S.E., S.Kom., M.Kom..jpg
+    - assets/gambar_dosen/Muhammad Syahril, SE., M.Kom..jpg
+    - assets/gambar_dosen/Mukhlis Ramadhan, S.E., M.Kom..jpg
+    - assets/gambar_dosen/Rini Kustini, S.S., MS..jpg
+    - assets/gambar_dosen/Saiful Nur Arif, S.E., S.Kom., M.Kom..jpg
+    - assets/gambar_dosen/Zulkifli Lubis, S.E., MM..jpg

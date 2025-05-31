@@ -15,7 +15,7 @@ class MainApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'UAS Mobile 2 bersama azlansaja',
       theme: ThemeData(
-        colorSchemeSeed: Colors.greenAccent,
+        colorSchemeSeed: const Color.fromARGB(255, 11, 209, 21),
         brightness: Brightness.dark,
         textTheme: GoogleFonts.robotoTextTheme(ThemeData.dark().textTheme),
         // brightness: Brightness.light,
